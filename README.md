@@ -1,6 +1,5 @@
 # web-development
 
-
 1. Project's Title
 Application that enables a Pharmacy shop to Create, Read, Update and Delete records from their
 database.
